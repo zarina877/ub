@@ -1,0 +1,4 @@
+серверы:
+sudo apt install cockpit
+sudo systemctl enable —now cockpit.socket 
+https://localhost: 9090
